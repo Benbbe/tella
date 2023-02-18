@@ -11,4 +11,4 @@ features = ["blog", "slides", "responsive"]
 
 [author]
   name = "wamo"
-  homepage = "https://wmsci.com"
+  homepage = "https://wmsci-test.com"
