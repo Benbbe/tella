@@ -20,7 +20,7 @@
     <div class="scroll-top rounded-full">
         <span class="icon-keyboard_arrow_up text-2xl"></span>
     </div>
-    {{- partial "carousel.html" . -}}
+    {{ partial "carousel.html" (dict "context" . "items" "1" "height" "50" "unit" "%" "duration" "7000") }}
     {{- partial "slide.html" . -}}
     {{- partial "strip.html" . -}}
     <div class="mx-auto my-10 max-w-6xl">
