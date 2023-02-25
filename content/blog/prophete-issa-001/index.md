@@ -1,6 +1,6 @@
 +++
 title = "Le prophète Issa - Jésus - Maryam Marie"
-date = "2015-06-22T13:50:46+02:00"
+date = "2023-02-24T13:50:46+02:00"
 tags = ["ACMP"]
 categories = ["les prophètes"]
 description = "Le prophète Ibrahim est un des 5 prophètes dit 'Oulou al Azm', il est le père spirtuel des 3 religions monothéistes"
@@ -12,9 +12,9 @@ banner = "/img/blog/jesus-nazareth.jpg"
 Maryam, Alayha al Salam, est une des femmes les plus pieuses de l'humanité, elle
 est la plus pieuse vraiment.
 
-{{< img src="3_42.png" >}}
+{{< img src="./3_42.png" >}}
 
-{{< img src="3_43.png" >}}
+{{< img src="./3_43.png" >}}
 
 Allâh a dit :
 
@@ -32,7 +32,7 @@ sans père.
 Mère de Jesus, Allah lui a rendu hommage, par sourat - chapitre entier dans le
 Saint-Coran.
 
-{{< img src="3_44.png" >}}
+{{< img src="./3_44.png" >}}
 
 >Allâh a dit : {Car tu n’étais pas là lorsqu’ils jétaient leurs calames pour
 décider qui se chargerait de Marie ! Tu n’étais pas là non plus lorsqu’ils se
