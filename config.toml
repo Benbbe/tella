@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
-    size = "h-14"
+    size = "h-24"
 
   [params.site]
     name = "Tella"
