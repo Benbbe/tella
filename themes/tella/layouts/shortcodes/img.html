@@ -2,7 +2,7 @@
 {{ $extention := .Get "ext" | default "" }}
 {{ $alt := .Get "alt" }}
 {{ $width := .Get "width" | default "auto" }}
-{{ $minipath := printf "./%s%s" $name $extention }}
+{{ $minipath := printf "/img/blog/%s/%s%s" .Page.File.ContentBaseName $name $extention }}
 {{ $path := printf "content%s.webp" $minipath }}
 {{- if (fileExists $path) -}}
 <picture>
