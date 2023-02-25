@@ -12,9 +12,9 @@ banner = "/img/blog/jesus-nazareth.jpg"
 Maryam, Alayha al Salam, est une des femmes les plus pieuses de l'humanité, elle
 est la plus pieuse vraiment.
 
-{{< img src="/img/blog/prophete-issa-001/3_42.png" >}}
+{{< img src="3_42.png" >}}
 
-{{< img src="/img/blog/prophete-issa-001/3_43.png" >}}
+{{< img src="3_43.png" >}}
 
 Allâh a dit :
 
@@ -32,7 +32,7 @@ sans père.
 Mère de Jesus, Allah lui a rendu hommage, par sourat - chapitre entier dans le
 Saint-Coran.
 
-{{< img src="/img/blog/prophete-issa-001/3_44.png" >}}
+{{< img src="3_44.png" >}}
 
 >Allâh a dit : {Car tu n’étais pas là lorsqu’ils jétaient leurs calames pour
 décider qui se chargerait de Marie ! Tu n’étais pas là non plus lorsqu’ils se
@@ -42,10 +42,10 @@ disputaient.}
 
 Sa mère reçu la nouvelle de sa naissance de la part des anges
 
-{{< img src="/img/blog/prophete-issa-001/sourat-3_45.png" >}}
-{{< img src="/img/blog/prophete-issa-001/sourat-3_46.png" >}}
-{{< img src="/img/blog/prophete-issa-001/sourat-3_47.png" >}}
-{{< img src="/img/blog/prophete-issa-001/sourat-3_48.png" >}}
+{{< img src="sourat-3_45.png" >}}
+{{< img src="sourat-3_46.png" >}}
+{{< img src="sourat-3_47.png" >}}
+{{< img src="sourat-3_48.png" >}}
 
 
 >Allâh a dit : {(Rappelle-toi,) quand les anges dirent : « Ô Marie, voilà
@@ -60,7 +60,7 @@ sagesse, la Thora et l’évangile}
 
 > Sourat 3 versets de 45 à 48
 
-{{< img src="/img/blog/prophete-issa-001/sourat-3_59.png" >}}
+{{< img src="sourat-3_59.png" >}}
 
 >Allâh a dit : {Pour Allah, Jésus est comme Adam qu’Il créa de poussière, puis Il
 lui dit « Sois » : et il fut.}
