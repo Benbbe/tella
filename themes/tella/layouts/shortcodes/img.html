@@ -1,5 +1,5 @@
 {{ $name := .Get "src" }}
-{{ $extention := .Get "ext" | default "png" }}
+{{ $extention := .Get "ext" | default "" }}
 {{ $alt := .Get "alt" }}
 {{ $width := .Get "width" | default "auto" }}
 {{ $minipath := printf "/posts/%s/%s.%s" .Page.File.ContentBaseName $name $extention }}
