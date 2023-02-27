@@ -17,7 +17,7 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 #alert
-alert"this is an alert for web site"
+alert = "this is an alert for web site"
 [params]
 
   mainSections = ['blog']
