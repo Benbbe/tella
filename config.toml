@@ -74,6 +74,13 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 4
 
+  [[menu.main]]
+    name = "Galerie photos"
+    identifier = "photos"
+    url = "/medias/photos"
+    parent ="blog"
+    weight = 40
+    
   # Footer Menu
   [[menu.footer]]
     name = "Home"

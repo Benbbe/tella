@@ -10,13 +10,25 @@
     "icon": "icon-lightbulb_outline"
   },
   {
-    "title": "Aide  Orientation",
+    "title": "Enseignement religieux",
     "description": "Please fork the Github repository and contribute to this theme!",
     "icon": "icon-github",
     "link": "https://github.com/opera7133/tella"
   },
   {
-    "title": "Aide  Orientation",
+    "title": "Prière de la joumoua",
+    "description": "Pour garantir à un nombre croissants de fidèles, la mosquée organise deux sessions de la prière du joumouah",
+    "icon": "icon-github",
+    "link": "https://github.com/opera7133/tella"
+  },
+  {
+    "title": "Fêtes religieuses",
+    "description": "Please fork the Github repository and contribute to this theme!",
+    "icon": "icon-github",
+    "link": "https://github.com/opera7133/tella"
+  },  
+  {
+    "title": "conférences",
     "description": "Please fork the Github repository and contribute to this theme!",
     "icon": "icon-github",
     "link": "https://github.com/opera7133/tella"
