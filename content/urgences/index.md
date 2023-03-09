@@ -43,9 +43,6 @@ durant les prières de la joumou'ah.
 
 {{< paypal_tr img="/img/dons/dons-tr.jpg" >}}
 
-## Images du séisme et du travail sans relâche des secours
-{{< gallery dir ="/img/urgences">}}
-{{< /gallery >}}
 
 ## Medias et informations
 Nous suivons la situation sur l'agence de presse officielle du gouvernement Turc,
