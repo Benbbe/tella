@@ -4,7 +4,8 @@ date = "2022-08-05T00:00:25+02:00"
 tags = ["Islam", "Achoura", "Jeûne"]
 categories = [ "Jeûne"]
 description = ""
-image = "/img/caroussel/achoura/achoura-acmp.jpg"
+image = "/img/blog/033-Jeune de Achoura
+/achoura-acmp.jpg"
 +++
 
 Assalamou aleykoum mes frères et sœurs, 📢
