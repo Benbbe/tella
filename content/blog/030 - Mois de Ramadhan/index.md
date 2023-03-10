@@ -1,11 +1,11 @@
-+++
-title = "Mois de Ramadhan"
-date = "2022-04-01T18:00:46+02:00"
-tags = ["ACMP"]
-categories = [ "Ramadhan"]
-description = ""
-image = "/img/blog/030/ramadhan.jpg"
-+++
+---
+title : "Mois de Ramadhan"
+date : "2022-04-01T18:00:46+02:00"
+tags : ["ACMP"]
+categories : [ "Ramadhan"]
+description : ""
+image : "/img/blog/030/ramadhan.jpg"
+---
 
 ## Assalam alaykum wa rahmatu-llah ,
 

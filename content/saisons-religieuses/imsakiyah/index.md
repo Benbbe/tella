@@ -1,9 +1,9 @@
-+++
-title = "Calendrier des prières du mois de Ramadhan - إمساكية شهر رمضان"
+---
+title : "Calendrier des prières du mois de Ramadhan - إمساكية شهر رمضان"
 description= "Programme spécial Ramadhan de la mosquée de Persan. Dourous, discours, prêches et concours. Pour adultes et enfants"
-date = 2020-04-24T18:30:00+02:00
+date : 2020-04-24T18:30:00+02:00
 type ="page"
-+++
+---
 
 ## Calendrier des prières du mois de Ramadhan
 

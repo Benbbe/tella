@@ -1,9 +1,9 @@
-+++
-title = "Bénévolat - العمل التطوعي"
+---
+title : "Bénévolat - العمل التطوعي"
 description= "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
-date = 2018-07-13T21:45:48+01:00
+date : 2018-07-13T21:45:48+01:00
 type ="page"
-+++
+---
 
 Le bénévolat est une activité non rétribuée et librement choisie qui s'exerce en
 général au sein d'une institution sans but lucratif (ISBL) : association, ONG,

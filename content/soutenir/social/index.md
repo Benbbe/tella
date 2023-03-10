@@ -1,10 +1,10 @@
-+++
-title = "Collecte en faveur de l'activité sociale - التبرعات للعائلات المحتاجة"
+---
+title : "Collecte en faveur de l'activité sociale - التبرعات للعائلات المحتاجة"
 description= "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
-date = 2023-01-18T21:45:48+01:00
+date : 2023-01-18T21:45:48+01:00
 type ="page"
-aliases = ["/collecte"]
-+++
+aliases : ["/collecte"]
+---
 
 Notre association distribue des colis alimentaires et des produits d'hygiène
 deux (2) fois par semaines à destination des nécessiteux. Nous dénombrons 90

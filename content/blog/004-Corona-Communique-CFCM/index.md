@@ -1,11 +1,11 @@
-+++
-title = "CFCM - Appel à la fermeture de toutes les mosquées de France"
-date = "2019-03-14T13:50:46+02:00"
-tags = ["ACMP"]
-categories = ["Fatwa", "CORONA", "CFCM"]
-description = "L'Union internationale des savants musulmans recommande d'arrêter vendredi et les groupes dans tous les pays où l'épidémie de Corona se propage"
-image = "/img/blog/logo-cfcm.png"
-+++
+---
+title : "CFCM - Appel à la fermeture de toutes les mosquées de France"
+date : "2019-03-14T13:50:46+02:00"
+tags : ["ACMP"]
+categories : ["Fatwa", "CORONA", "CFCM"]
+description : "L'Union internationale des savants musulmans recommande d'arrêter vendredi et les groupes dans tous les pays où l'épidémie de Corona se propage"
+image : "/img/blog/logo-cfcm.png"
+---
 
 ## COMMUNIQUÉ : Appel à la fermeture de toutes les mosquées de France
 

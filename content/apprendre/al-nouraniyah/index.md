@@ -1,12 +1,12 @@
-+++
-title = "La méthode Al-nouraniyah - القاعدة النورانية"
-description = """ La Qa3idah Nourania est une méthode d’apprentissage de la lecture
+---
+title : "La méthode Al-nouraniyah - القاعدة النورانية"
+description : """ La Qa3idah Nourania est une méthode d’apprentissage de la lecture
 du Coran qui a fait ses preuves on entend de plus en plus parler ces dernières
 années. Cette méthode audio-visuelle a vu le jour en Asie et permet de lire la
 Le Saint Coran """
-date = 2021-09-22T22:00:05+01:00
-type = "page"
-+++
+date : 2021-09-22T22:00:05+01:00
+type : "page"
+---
 
 {{< figure src="/img/caroussel/ecole/nouraniyah-2022.jpg"
 link="/pdf/ecole/Inscription-Nourania-2022-2023.pdf" >}}

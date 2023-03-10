@@ -1,9 +1,9 @@
-+++
-title = "Al-Jazariyah ( Al-Moqaddimah Aljazariyah pour Al Tajwid)"
-description = "Ecole de langue arabe pour les enfants en priorité, mais également pour d'autres niveaux"
-date = 2018-07-13T19:18:05+01:00
-type = "page"
-+++
+---
+title : "Al-Jazariyah ( Al-Moqaddimah Aljazariyah pour Al Tajwid)"
+description : "Ecole de langue arabe pour les enfants en priorité, mais également pour d'autres niveaux"
+date : 2018-07-13T19:18:05+01:00
+type : "page"
+---
 
 ## Al Jazariya متن المقدمة الجزرية
 

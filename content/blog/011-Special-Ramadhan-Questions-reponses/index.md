@@ -1,11 +1,11 @@
-+++
-title = "Spécial Ramadhan - Question réponse"
-date = "2020-04-23T19:00:46+02:00"
-tags = ["ACMP"]
-categories = ["Ramadhan"]
-description = ""
-image = "/img/logo/logo.png"
-+++
+---
+title : "Spécial Ramadhan - Question réponse"
+date : "2020-04-23T19:00:46+02:00"
+tags : ["ACMP"]
+categories : ["Ramadhan"]
+description : ""
+image : "/img/logo/logo.png"
+---
 
 ## Questions / Réponses sur le jeûne
 

@@ -1,11 +1,11 @@
-+++
-title = "Est-ce que le mois de Rajab a des vertus particulières ?"
-date = "2021-02-10T23:00:46+02:00"
-tags = ["Calendrier Musulman"]
-categories = [ "Calendrier", "foi musulmane"]
-description = "Mois de Rajab, un mois sacré qu'oublie une bonne partie des Musulmans"
-image = "/img/blog/023/Mois-de-rajab.jfif"
-+++
+---
+title : "Est-ce que le mois de Rajab a des vertus particulières ?"
+date : "2021-02-10T23:00:46+02:00"
+tags : ["Calendrier Musulman"]
+categories : [ "Calendrier", "foi musulmane"]
+description : "Mois de Rajab, un mois sacré qu'oublie une bonne partie des Musulmans"
+image : "/img/blog/023/Mois-de-rajab.jfif"
+---
 
 {{< img src="07-rajab-texture-660x320.jpg" >}}
 

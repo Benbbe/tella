@@ -1,9 +1,9 @@
-+++
-title = "Questions religieuse - اسئلة إيمانية"
+---
+title : "Questions religieuse - اسئلة إيمانية"
 description= "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
-date = 2018-07-13T21:45:48+01:00
+date : 2018-07-13T21:45:48+01:00
 type ="page"
-+++
+---
 
 La pratique de la religion se fait esentiellement par la science, il est très
 important de connaitre la dimension cultuelle et scientifique de tout acte  que

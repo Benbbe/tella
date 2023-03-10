@@ -1,11 +1,11 @@
-+++
-title = "Rappel de Cheikh Mohammed - Coronavirus et ses trois dimensions"
-date = "2020-03-15T07:00:46+02:00"
-tags = ["ACMP"]
-categories = [ "CORONA", "Rappel"]
-description = "Je rappelle à moi-même puis à mes frères et sœurs, les dimensions suivantes extraites du livre d'Allah Tāla, La dimension universelle, La dimension spirituelle et la dimension pratique"
-image = "/img/blog/cheikh-beggas.jpeg"
-+++
+---
+title : "Rappel de Cheikh Mohammed - Coronavirus et ses trois dimensions"
+date : "2020-03-15T07:00:46+02:00"
+tags : ["ACMP"]
+categories : [ "CORONA", "Rappel"]
+description : "Je rappelle à moi-même puis à mes frères et sœurs, les dimensions suivantes extraites du livre d'Allah Tāla, La dimension universelle, La dimension spirituelle et la dimension pratique"
+image : "/img/blog/cheikh-beggas.jpeg"
+---
 
 ## Coronavirus et ses trois dimensions:
 

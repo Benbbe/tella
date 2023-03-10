@@ -1,11 +1,11 @@
-+++
-title = "Communique ouverture des mosquées pour la prière de la Joumou'a"
-date = "2020-06-14T20:05:46+02:00"
-tags = ["ACMP"]
-categories = [ "Communique", "mosquée", "corona"]
-description = "Communiqué commun d'ouverture de 8 mosquées du val d'Oise pour Salat al-joumou'a: Persan, Vaureal, Sannois, Ermont, Montigny-lès-Cormeilles, Cergy, Saint-Ouen L'Aumône et Pontoise"
-image = "/img/logo/logo.png"
-+++
+---
+title : "Communique ouverture des mosquées pour la prière de la Joumou'a"
+date : "2020-06-14T20:05:46+02:00"
+tags : ["ACMP"]
+categories : [ "Communique", "mosquée", "corona"]
+description : "Communiqué commun d'ouverture de 8 mosquées du val d'Oise pour Salat al-joumou'a: Persan, Vaureal, Sannois, Ermont, Montigny-lès-Cormeilles, Cergy, Saint-Ouen L'Aumône et Pontoise"
+image : "/img/logo/logo.png"
+---
 
 
 ## COMMUNIQUE

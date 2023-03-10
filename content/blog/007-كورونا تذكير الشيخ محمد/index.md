@@ -1,11 +1,11 @@
-+++
-title = " كورونا والأبعاد الثلاثة تذكير الشيخ محمد "
-date = "2020-03-15T07:00:50+02:00"
-tags = ["ACMP"]
-categories = [ "CORONA", "Rappel"]
-description = "ذكّر نفسي وإخواني وأخواتي بهذه الأبعاد التي أستقيها من كتاب الله تعالى"
-image = "/img/blog/cheikh-beggas.jpeg"
-+++
+---
+title : " كورونا والأبعاد الثلاثة تذكير الشيخ محمد "
+date : "2020-03-15T07:00:50+02:00"
+tags : ["ACMP"]
+categories : [ "CORONA", "Rappel"]
+description : "ذكّر نفسي وإخواني وأخواتي بهذه الأبعاد التي أستقيها من كتاب الله تعالى"
+image : "/img/blog/cheikh-beggas.jpeg"
+---
 
 ## كورونا والأبعاد الثلاثة
 

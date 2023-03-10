@@ -1,11 +1,11 @@
-+++
-title = "Mois de chaabane - un mois que les musulmans oublient - شهر شعبان - شهرٌ يغفل عنه الناس"
-date = "2021-03-20T07:00:46+02:00"
-tags = ["ACMP"]
-categories = [ "Ramadhan"]
-description = ""
-image = "/img/blog/mois-chaabane.jpg"
-+++
+---
+title : "Mois de chaabane - un mois que les musulmans oublient - شهر شعبان - شهرٌ يغفل عنه الناس"
+date : "2021-03-20T07:00:46+02:00"
+tags : ["ACMP"]
+categories : [ "Ramadhan"]
+description : ""
+image : "/img/blog/mois-chaabane.jpg"
+---
 
 Nous voilà au mois de Cha’ban al-hamdoulilah. Dans une trentaine de jours, si
 Allah nous l’accorde, nous accueillerons notre cher Ramadan que nous attendons
