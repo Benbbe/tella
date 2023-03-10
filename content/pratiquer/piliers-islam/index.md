@@ -1,6 +1,6 @@
 ---
 title : "Les cinq Piliers de l'Islam - أركان الإسلام الخمسة"
-description= "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
+description :  "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
 date : 2018-07-13T21:45:48+01:00
 type ="page"
 ---
