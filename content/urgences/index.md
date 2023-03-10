@@ -2,7 +2,7 @@
 title : "Urgence Humanitaire - Séisme Turquie & Syrie"
 description : "Urgence Humanitaire - Séisme Turquie & Syrie"
 date : 2023-02-07T15:00:48+01:00
-type ="page"
+type : "page"
 ---
 
 

@@ -2,7 +2,7 @@
 title : "Jeune du Ramadhan - صوم رمضان"
 description :  "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
 date : 2018-07-13T21:45:48+01:00
-type ="page"
+type : "page"
 ---
 
 Bien qu’il semble être un mois de restrictions et d’interdits, Ramadhan (ou
