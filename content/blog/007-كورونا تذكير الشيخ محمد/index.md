@@ -4,7 +4,7 @@ date = "2020-03-15T07:00:50+02:00"
 tags = ["ACMP"]
 categories = [ "CORONA", "Rappel"]
 description = "ذكّر نفسي وإخواني وأخواتي بهذه الأبعاد التي أستقيها من كتاب الله تعالى"
-banner = "/img/blog/cheikh-beggas.jpeg"
+image = "/img/blog/cheikh-beggas.jpeg"
 +++
 
 ## كورونا والأبعاد الثلاثة

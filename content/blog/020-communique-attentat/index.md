@@ -4,7 +4,7 @@ date = "2020-10-19T21:05:46+02:00"
 tags = ["ACMP", "Communiqué"]
 categories = [ "Communique"]
 description = "Communiqué de Condamnation de l'assassination du professeur d'histoire-géographie Samuel Paty"
-banner = "/img/logo/logo.png"
+image = "/img/logo/logo.png"
 +++
 
 # Communiqué

@@ -4,7 +4,7 @@ date = "2022-07-09T13:00:46+02:00"
 tags = ["ACMP"]
 categories = [ "Aid-Al-adha"]
 description = ""
-banner = "/img/blog/031/aid-stade-odinot.jpg"
+image = "/img/blog/031/aid-stade-odinot.jpg"
 +++
 
 ## Salam alaykoum - Que la paix soit sur vous

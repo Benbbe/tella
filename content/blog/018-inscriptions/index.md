@@ -4,7 +4,7 @@ date = "2020-06-04T16:00:46+02:00"
 tags = ["ACMP"]
 categories = [ "langue arabe"]
 description = "Ouverture des inscriptions aux cours d'Arabe de la mosquée de Persan, dates dans précisés dans la page"
-banner = "/img/blog/018/inscriptions.jpg"
+image = "/img/blog/018/inscriptions.jpg"
 +++
 
 # Inscriptions des cours d’arabe 2020/2021

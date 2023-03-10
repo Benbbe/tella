@@ -4,7 +4,7 @@ date = "2015-06-23T13:50:46+02:00"
 tags = ["ACMP"]
 categories = ["les prophètes"]
 description = "Le prophète Issa est un des 5 prophètes dit 'Oulou al Azm'"
-banner = "/img/blog/jesus-nazareth.jpg"
+image = "/img/blog/jesus-nazareth.jpg"
 +++
 
 

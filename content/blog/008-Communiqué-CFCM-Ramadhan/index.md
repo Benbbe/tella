@@ -4,7 +4,7 @@ date = "2020-03-28T07:00:46+02:00"
 tags = ["ACMP"]
 categories = [ "Ramadhan", "CORONA"]
 description = ""
-banner = "/img/blog/logo-cfcm.png"
+image = "/img/blog/logo-cfcm.png"
 +++
 
 ## Message du CFCM aux musulmans de France

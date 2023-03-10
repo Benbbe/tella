@@ -4,7 +4,7 @@ date = "2020-04-23T19:35:46+02:00"
 tags = ["ACMP"]
 categories = [ "Ramadhan", "CFCM"]
 description = ""
-banner = "/img/blog/logo-cfcm.png"
+image = "/img/blog/logo-cfcm.png"
 +++
 
 ## Communiqué du CFCM

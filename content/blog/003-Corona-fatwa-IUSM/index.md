@@ -4,7 +4,7 @@ date = "2019-03-14T13:50:46+02:00"
 tags = ["ACMP"]
 categories = ["Fatwa", "CORONA", "IUSM"]
 description = "L'Union internationale des savants musulmans recommande d'arrêter vendredi et les groupes dans tous les pays où l'épidémie de Corona se propage"
-banner = "/img/blog/logo_iums.png"
+image = "/img/blog/logo_iums.png"
 +++
 
 

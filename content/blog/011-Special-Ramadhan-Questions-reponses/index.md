@@ -4,7 +4,7 @@ date = "2020-04-23T19:00:46+02:00"
 tags = ["ACMP"]
 categories = ["Ramadhan"]
 description = ""
-banner = "/img/logo/logo.png"
+image = "/img/logo/logo.png"
 +++
 
 ## Questions / Réponses sur le jeûne

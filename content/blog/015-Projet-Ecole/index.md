@@ -4,7 +4,7 @@ date = "2020-05-15T20:05:46+02:00"
 tags = ["ACMP"]
 categories = [ "Terrain", "Mosquée"]
 description = ""
-banner = "/img/blog/015/terrain-ecole.jpg"
+image = "/img/blog/015/terrain-ecole.jpg"
 +++
 
 Assalamo alaykoum mes frères et sœurs,

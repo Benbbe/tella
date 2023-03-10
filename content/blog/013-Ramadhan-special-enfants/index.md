@@ -4,7 +4,7 @@ date = "2020-04-25T23:30:46+02:00"
 tags = ["ACMP"]
 categories = [ "Ramadhan", "Les bambins"]
 description = ""
-banner = "/img/logo/logo.png"
+image = "/img/logo/logo.png"
 +++
 
 Pour le mois de Ramadhan, nous vous proposons un ensemble d'activités à faire

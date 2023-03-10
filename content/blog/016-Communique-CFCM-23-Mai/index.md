@@ -4,7 +4,7 @@ date = "2020-05-23T20:05:46+02:00"
 tags = ["ACMP"]
 categories = [ "Communique", "CFCM"]
 description = ""
-banner = "/img/blog/logo-cfcm.png"
+image = "/img/blog/logo-cfcm.png"
 +++
 
 Ce document s’appuie sur les préconisations du ministère de l’intérieur

@@ -4,7 +4,7 @@ date = "2015-06-22T13:50:46+02:00"
 tags = ["ACMP"]
 categories = ["les prophètes"]
 description = "Le prophète Ibrahim est un des 5 prophètes dit 'Oulou al Azm', il est le père spirtuel des 3 religions monothéistes"
-banner = "/img/blog/jesus-nazareth.jpg"
+image = "/img/blog/jesus-nazareth.jpg"
 +++
 
 ## Sa mère est Maryam fille de ‘Imrân

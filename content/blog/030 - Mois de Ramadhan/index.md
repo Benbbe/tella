@@ -4,7 +4,7 @@ date = "2022-04-01T18:00:46+02:00"
 tags = ["ACMP"]
 categories = [ "Ramadhan"]
 description = ""
-banner = "/img/blog/030/ramadhan.jpg"
+image = "/img/blog/030/ramadhan.jpg"
 +++
 
 ## Assalam alaykum wa rahmatu-llah ,

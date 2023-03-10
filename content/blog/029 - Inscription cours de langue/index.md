@@ -4,7 +4,7 @@ date = "2021-06-02T21:00:46+02:00"
 tags = ["Ecole","Langue Arabe"]
 categories = [ "Langue Arabe"]
 description = "Ouverture des inscriptions pour les cours de langue Arabe"
-banner = "/img/blog/018/inscriptions.jpg"
+image = "/img/blog/018/inscriptions.jpg"
 +++
 
 

@@ -4,7 +4,7 @@ date = "2021-02-14T18:00:46+00:00"
 tags = ["ACMP"]
 categories = [ "Communique", "mosquée", "corona"]
 description = "Communiqué de de reprise des prières de la joumou'ah, le 14 Février 2021, Mosquée de Persan, 71 Avenue GAston Vermeire"
-banner = "/img/blog/024/joumouah.jfif"
+image = "/img/blog/024/joumouah.jfif"
 +++
 
 {{< img src="62_9.png" >}}

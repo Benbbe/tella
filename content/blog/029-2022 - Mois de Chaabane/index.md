@@ -4,7 +4,7 @@ date = "2022-03-05T07:00:46+02:00"
 tags = ["ACMP"]
 categories = [ "Ramadhan"]
 description = ""
-banner = "/img/blog/mois-chaabane.jpg"
+image = "/img/blog/mois-chaabane.jpg"
 +++
 
 Nous voilà au mois de Cha’ban al-hamdoulilah. Dans une trentaine de jours, si

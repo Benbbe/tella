@@ -4,7 +4,7 @@ date = "2020-04-19T16:00:46+02:00"
 tags = ["Dons","ACMP","déduction fiscale"]
 categories = [ "Ramadhan"]
 description = ""
-banner = "/img/blog/graphic-dons-1.png"
+image = "/img/blog/graphic-dons-1.png"
 +++
 
 Salam alaykoum;

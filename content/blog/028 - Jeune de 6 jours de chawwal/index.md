@@ -4,7 +4,7 @@ date = "2021-05-14T07:45:46+02:00"
 tags = ["ACMP"]
 categories = [ "Ramadhan"]
 description = "La recommandation de jeûner six jours durant le mois de Chawwal"
-banner = "/img/blog/027/6-jours-chawal.jpg"
+image = "/img/blog/027/6-jours-chawal.jpg"
 +++
 
 

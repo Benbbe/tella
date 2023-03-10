@@ -4,7 +4,7 @@ date = "2015-06-24T13:50:46+02:00"
 tags = ["ACMP"]
 categories = ["les prophètes"]
 description = "Le prophète Ibrahim est un des 5 prophètes dit 'Oulou al Azm', il est le père spirtuel des 3 religions monothéistes"
-banner = "/img/blog/mosquee-al-khalil.png"
+image = "/img/blog/mosquee-al-khalil.png"
 +++
 
 ## Le prophèe Ibrahim - Le « hanif »

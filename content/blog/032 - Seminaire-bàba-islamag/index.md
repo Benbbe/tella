@@ -4,7 +4,7 @@ date = "2022-07-25T00:00:25+02:00"
 tags = ["ACMP", "Séminiare", "B à Ba", "islamag"]
 categories = [ "Seminaire"]
 description = ""
-banner = "img/caroussel/conf/acmp-conf-bàba-islamag-mosquee.jpg"
+image = "img/caroussel/conf/acmp-conf-bàba-islamag-mosquee.jpg"
 +++
 
 Assalamou aleykoum mes frères et sœurs, 📢
