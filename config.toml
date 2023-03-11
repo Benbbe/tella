@@ -54,7 +54,7 @@ alert = "this is an alert for web site"
 
   [[menu.main]]
     identifier = "mosquee"
-    name = "la Mosquée"
+    name = "La Mosquée"
     url = "/mosquee/"
     weight = 1
 
@@ -71,14 +71,8 @@ alert = "this is an alert for web site"
     weight = 3
   
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
-    weight = 4
-
-  [[menu.main]]
     identifier = "blog"
-    name = "aricles et discours"
+    name = "Articles et Discours"
     url = "/blog/"
     weight = 5
 
