@@ -5,7 +5,7 @@ draft : false
 featured: true
 weight: 1
 description : "histoire de la mosquée de Persan"
-type : "product"
+type : "mosquee"
 ---
 
 ## Un peu d'histoire

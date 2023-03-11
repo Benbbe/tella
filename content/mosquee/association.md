@@ -5,7 +5,7 @@ draft : false
 featured: true
 weight: 1
 description : "ACMP, Association Cultuelle des Musulmans de Persan"
-type : "product"
+type : "mosquee"
 ---
 
 ## Objectifs de l'association

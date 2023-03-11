@@ -5,7 +5,7 @@ draft : false
 featured: true
 weight: 1
 description : "LA mosquée de Persan, 71 Avenue Gaston Vemeire"
-type : "product"
+type : "mosquee"
 ---
 
 La mosquée est sise au 71 Avenue Gaston Vermeire à Persan.
