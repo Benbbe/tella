@@ -62,44 +62,37 @@ alert = "this is an alert for web site"
     identifier = "pratiquer"
     name = "Pratiquer"
     url = "/pratiquer/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "apprendre"
     name = "Apprendre"
     url = "/apprendre/"
-    weight = 1
+    weight = 3
   
   [[menu.main]]
     identifier = "products"
     name = "Products"
     url = "/products/"
-    weight = 1
+    weight = 4
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "aricles et discours"
     url = "/blog/"
-    weight = 2
+    weight = 5
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "A propos"
     url = "/about/"
-    weight = 3
+    weight = 6
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Galerie photos"
-    identifier = "photos"
-    url = "/medias/photos"
-    parent ="blog"
-    weight = 40
+    weight = 7
     
   # Footer Menu
   [[menu.footer]]
