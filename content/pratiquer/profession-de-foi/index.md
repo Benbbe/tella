@@ -3,6 +3,7 @@ title = "L'attestation (profession) de foi - الشهادتان"
 description = "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
 date = 2018-07-13T21:45:48+01:00
 type = "page"
+image = "/img/mosquee/Shahadah-1.svg"
 +++
 
 L’attestation de foi « Chahada », est le premier pilier de la foi Musulmane,

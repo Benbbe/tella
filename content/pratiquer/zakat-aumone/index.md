@@ -3,6 +3,7 @@ title = "La Zakat - L'Aumône - الزكاة"
 description = "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
 date = 2018-07-13T21:45:48+01:00
 type = "page"
+image = "/img/mosquee/zakat.webp"
 +++
 
 Comme l’explique as-Sayyid Sâbiq, la zakât est le nom qui est utilisé pour
