@@ -1,13 +1,16 @@
 [
   {
     "title": "Foi Musulmane",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
+    "description": "Introduction à la foi Musulmane",
+    "icon": "icon-islam",
+    "link": "/pratiquer/profession-de-foi/"
   },
   {
     "title": "Prières",
-    "description": "Light weight and fast loading speed.",
-    "icon": "icon-lightbulb_outline"
+    "description": "Organisation des prières quotidiennes, des tarawih & prière mortuaire",
+    "icon": "icon-lightbulb_outline",
+    "link": "/pratiquer/cinq-prieres/"
+
   },
   {
     "title": "Enseignement religieux",
