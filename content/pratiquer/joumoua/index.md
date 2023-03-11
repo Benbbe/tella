@@ -3,7 +3,7 @@ title = "La prière du Joumou'a - صلاة الجمعة"
 description = "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
 date = 2018-07-13T21:45:48+01:00
 type = "page"
-image : "/img/mosquee/joumoua.jpg"
+image = "/img/mosquee/joumoua.jpg"
 +++
 
 ## Le priere du Vendredi dans notre mosquée.

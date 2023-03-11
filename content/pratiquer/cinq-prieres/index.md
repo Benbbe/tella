@@ -3,7 +3,7 @@ title = "Les cinq prières - الصلوات الخمس"
 description = "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
 date = 2018-07-13T21:45:48+01:00
 type = "page"
-image : "/img/mosquee/priere-musulmane.jpg"
+image = "/img/mosquee/priere-musulmane.jpg"
 +++
 
 ## Définition
