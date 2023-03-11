@@ -1,11 +1,11 @@
----
-title : "Félicitations & Remerciements pour l'Aid al-Adha"
-date : "2022-07-09T13:00:46+02:00"
-tags : ["ACMP"]
-categories : [ "Aid-Al-adha"]
-description : ""
-image : "/img/blog/031/aid-stade-odinot.jpg"
----
++++
+title = "Félicitations & Remerciements pour l'Aid al-Adha"
+date = "2022-07-09T13:00:46+02:00"
+tags = ["ACMP"]
+categories = [ "Aid-Al-adha"]
+description = ""
+image = "/img/blog/031/aid-stade-odinot.jpg"
++++
 
 ## Salam alaykoum - Que la paix soit sur vous
 

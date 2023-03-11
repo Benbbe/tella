@@ -1,11 +1,11 @@
----
-title : "Communique maintein de fermeture des mosquées du Val d'Oise"
-date : "2020-11-28T07:05:46+02:00"
-tags : ["ACMP"]
-categories : [ "Communique", "mosquée", "corona"]
-description : "Communiqué commun des 8 mosquées du val d'Oise: Persan, Vaureal, Sannois, Ermont, Montigny-lès-Cormeilles, Cergy, Saint-Ouen L'Aumône et Pontoise"
-image : "/img/logo/logo.png"
----
++++
+title = "Communique maintein de fermeture des mosquées du Val d'Oise"
+date = "2020-11-28T07:05:46+02:00"
+tags = ["ACMP"]
+categories = [ "Communique", "mosquée", "corona"]
+description = "Communiqué commun des 8 mosquées du val d'Oise: Persan, Vaureal, Sannois, Ermont, Montigny-lès-Cormeilles, Cergy, Saint-Ouen L'Aumône et Pontoise"
+image = "/img/logo/logo.png"
++++
 
 
 ## COMMUNIQUE

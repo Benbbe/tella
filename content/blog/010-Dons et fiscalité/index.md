@@ -1,11 +1,11 @@
----
-title : "Déductions fiscales des dons"
-date : "2020-04-19T16:00:46+02:00"
-tags : ["Dons","ACMP","déduction fiscale"]
-categories : [ "Ramadhan"]
-description : ""
-image : "/img/blog/graphic-dons-1.png"
----
++++
+title = "Déductions fiscales des dons"
+date = "2020-04-19T16:00:46+02:00"
+tags = ["Dons","ACMP","déduction fiscale"]
+categories = [ "Ramadhan"]
+description = ""
+image = "/img/blog/graphic-dons-1.png"
++++
 
 Salam alaykoum;
 

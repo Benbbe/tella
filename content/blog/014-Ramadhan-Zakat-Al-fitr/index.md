@@ -1,11 +1,11 @@
----
-title : "Ramadhan - Zakat - Al Fitr"
-date : "2020-05-08T20:05:46+02:00"
-tags : ["ACMP"]
-categories : [ "Ramadhan", "Zkat-Al-fitr"]
-description : ""
-image : "/img/blog/014/blog-zakat-7-euro.png"
----
++++
+title = "Ramadhan - Zakat - Al Fitr"
+date = "2020-05-08T20:05:46+02:00"
+tags = ["ACMP"]
+categories = [ "Ramadhan", "Zkat-Al-fitr"]
+description = ""
+image = "/img/blog/014/blog-zakat-7-euro.png"
++++
 
 La Zakat El Fîtr est une aumône purificatrice du jeûne de Ramadan, un devoir
 pour chaque musulman de s'en acquitter.

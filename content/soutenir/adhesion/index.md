@@ -1,9 +1,9 @@
----
-title : "Adhésion à l'association - عضوية الجمعية الإشتراك"
-description :  "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
-date : 2018-07-13T21:45:48+01:00
-type : "page"
----
++++
+title = "Adhésion à l'association - عضوية الجمعية الإشتراك"
+description= "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
+date = 2018-07-13T21:45:48+01:00
+type ="page"
++++
 
 Notre mosquée est gérée par l'association ACMP, Association cultuelle des
 Musulmans à Persan. Il s'agit d'une association loi 1905, à but non lucratif à

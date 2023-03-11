@@ -1,11 +1,11 @@
----
-title : "Ramadhan - Spécial enfants"
-date : "2020-04-25T23:30:46+02:00"
-tags : ["ACMP"]
-categories : [ "Ramadhan", "Les bambins"]
-description : ""
-image : "/img/logo/logo.png"
----
++++
+title = "Ramadhan - Spécial enfants"
+date = "2020-04-25T23:30:46+02:00"
+tags = ["ACMP"]
+categories = [ "Ramadhan", "Les bambins"]
+description = ""
+image = "/img/logo/logo.png"
++++
 
 Pour le mois de Ramadhan, nous vous proposons un ensemble d'activités à faire
 pour les enfants.

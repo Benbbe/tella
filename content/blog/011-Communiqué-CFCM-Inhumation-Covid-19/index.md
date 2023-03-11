@@ -1,11 +1,11 @@
----
-title : "Communiqué du CFCM - N’ajoutons pas à la douleur des familles, la souffrance"
-date : "2020-04-20T21:00:46+02:00"
-tags : ["ACMP"]
-categories : [ "Carré Musulman", "CORONA"]
-description : ""
-image : "/img/blog/logo-cfcm.png"
----
++++
+title = "Communiqué du CFCM - N’ajoutons pas à la douleur des familles, la souffrance"
+date = "2020-04-20T21:00:46+02:00"
+tags = ["ACMP"]
+categories = [ "Carré Musulman", "CORONA"]
+description = ""
+image = "/img/blog/logo-cfcm.png"
++++
 
 ## Message du CFCM aux musulmans de France
 

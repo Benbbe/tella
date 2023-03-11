@@ -1,10 +1,10 @@
----
-title : "Dons à l'association - التبرعات للجمعية"
-description :  "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
-date : 2018-07-13T21:45:48+01:00
-type : "page"
-aliases : ["/dons","/don"]
----
++++
+title = "Dons à l'association - التبرعات للجمعية"
+description= "activités de la mosquée de Persan, cultuelles, sociales, citoyennes et éducatifs"
+date = 2018-07-13T21:45:48+01:00
+type ="page"
+aliases = ["/dons","/don"]
++++
 
 L'ACMP, Association Cultuelle des Musulmans à Persan, est une association loi 1905 à conseil d'administration.
 L'association a besoin de financements pour payer ses charges de fonctionnement.

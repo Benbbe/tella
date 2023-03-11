@@ -1,11 +1,11 @@
----
-title : "Le prophète Issa - Jésus - La prophétie"
-date : "2015-06-24T13:50:46+02:00"
-tags : ["ACMP"]
-categories : ["les prophètes"]
-description : "Le prophète Issa est un des 5 prophètes dit 'Oulou al Azm'"
-image : "/img/blog/jesus-nazareth.jpg"
----
++++
+title = "Le prophète Issa - Jésus - La prophétie"
+date = "2015-06-24T13:50:46+02:00"
+tags = ["ACMP"]
+categories = ["les prophètes"]
+description = "Le prophète Issa est un des 5 prophètes dit 'Oulou al Azm'"
+image = "/img/blog/jesus-nazareth.jpg"
++++
 
 ## Il confirma tout d’abord la Thora, puis il reçu l’Evangile
 

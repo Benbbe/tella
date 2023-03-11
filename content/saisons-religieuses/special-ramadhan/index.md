@@ -1,9 +1,9 @@
----
-title : "Programme Spécial Ramadhan - برنامجنا الخاص بشهر رمضان"
-description :  "Programme spécial Ramadhan de la mosquée de Persan. Dourous, discours, prêches et concours. Pour adultes et enfants"
-date : 2020-04-24T18:30:00+02:00
-type : "page"
----
++++
+title = "Programme Spécial Ramadhan - برنامجنا الخاص بشهر رمضان"
+description= "Programme spécial Ramadhan de la mosquée de Persan. Dourous, discours, prêches et concours. Pour adultes et enfants"
+date = 2020-04-24T18:30:00+02:00
+type ="page"
++++
 
 
 ## Ramadhan à la mosquée de Persan
@@ -109,7 +109,7 @@ Possibilité de répondre en arabe✅ ou en français ✅
 >Quelles sont les sourates du Noble Coran commençant par:
 >* une ayat interrogative ?
 >* Alhamdoulillah "الحمد لله"
-NB: (ayat : verset : preuve coranique)
+NB: (ayat = verset = preuve coranique)
 >Preuve coranique étant une traduction plus juste.
 
 5. Question 5

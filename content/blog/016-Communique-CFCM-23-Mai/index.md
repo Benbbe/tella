@@ -1,11 +1,11 @@
----
-title : "Recommandations générales en matière de la lutte contre la pandémie de SARS-COV-2 lors des cérémonies cultuelles"
-date : "2020-05-23T20:05:46+02:00"
-tags : ["ACMP"]
-categories : [ "Communique", "CFCM"]
-description : ""
-image : "/img/blog/logo-cfcm.png"
----
++++
+title = "Recommandations générales en matière de la lutte contre la pandémie de SARS-COV-2 lors des cérémonies cultuelles"
+date = "2020-05-23T20:05:46+02:00"
+tags = ["ACMP"]
+categories = [ "Communique", "CFCM"]
+description = ""
+image = "/img/blog/logo-cfcm.png"
++++
 
 Ce document s’appuie sur les préconisations du ministère de l’intérieur
 diffusées le 22 mai 2020, fruit d’une concertation avec les représentants de six

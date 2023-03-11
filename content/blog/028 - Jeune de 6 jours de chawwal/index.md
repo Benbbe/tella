@@ -1,11 +1,11 @@
----
-title : "Jeûner six jours de Chawwal"
-date : "2021-05-14T07:45:46+02:00"
-tags : ["ACMP"]
-categories : [ "Ramadhan"]
-description : "La recommandation de jeûner six jours durant le mois de Chawwal"
-image : "/img/blog/027/6-jours-chawal.jpg"
----
++++
+title = "Jeûner six jours de Chawwal"
+date = "2021-05-14T07:45:46+02:00"
+tags = ["ACMP"]
+categories = [ "Ramadhan"]
+description = "La recommandation de jeûner six jours durant le mois de Chawwal"
+image = "/img/blog/027/6-jours-chawal.jpg"
++++
 
 
 Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux.

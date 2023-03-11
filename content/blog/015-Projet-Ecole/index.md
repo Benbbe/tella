@@ -1,11 +1,11 @@
----
-title : "Projet d'extension"
-date : "2020-05-15T20:05:46+02:00"
-tags : ["ACMP"]
-categories : [ "Terrain", "Mosquée"]
-description : ""
-image : "/img/blog/015/terrain-ecole.jpg"
----
++++
+title = "Projet d'extension"
+date = "2020-05-15T20:05:46+02:00"
+tags = ["ACMP"]
+categories = [ "Terrain", "Mosquée"]
+description = ""
+image = "/img/blog/015/terrain-ecole.jpg"
++++
 
 Assalamo alaykoum mes frères et sœurs,
 

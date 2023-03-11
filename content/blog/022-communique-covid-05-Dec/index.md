@@ -1,11 +1,11 @@
----
-title : "Communique ouverture des mosquées du Val d'Oise"
-date : "2020-12-05T23:00:46+02:00"
-tags : ["ACMP"]
-categories : [ "Communique", "mosquée", "corona"]
-description : "Communiqué commun des 8 mosquées du val d'Oise: Persan, Vaureal, Sannois, Ermont, Montigny-lès-Cormeilles, Cergy, Saint-Ouen L'Aumône et Pontoise"
-image : "/img/logo/logo.png"
----
++++
+title = "Communique ouverture des mosquées du Val d'Oise"
+date = "2020-12-05T23:00:46+02:00"
+tags = ["ACMP"]
+categories = [ "Communique", "mosquée", "corona"]
+description = "Communiqué commun des 8 mosquées du val d'Oise: Persan, Vaureal, Sannois, Ermont, Montigny-lès-Cormeilles, Cergy, Saint-Ouen L'Aumône et Pontoise"
+image = "/img/logo/logo.png"
++++
 
 
 ## COMMUNIQUE
