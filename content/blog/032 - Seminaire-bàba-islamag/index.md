@@ -14,10 +14,8 @@ de nourrir nos corps et coeurs ☝️ D'après Abou Houreira (qu'Allah l'agrée)
 Prophète ﷺ a dit: « Celui qui ne remercie pas les gens n'a pas remercié Allah ».
 
 Nous tenons à remercier par la grâce d'Allah, au nom de l'association, nos deux
-chouyoukh Sofiane de [B à BA](https://t.co/Hh0UBP59Nn) - Cours en ligne et Mehdi
-de [Islammag](https://www.facebook.com/islammag.fr) pour la diffusion de leur
-science durant ces 3 jours. Qu'Allah les bénisse et qu'Il augmente leur science
-📚🤲🏻
+chouyoukh pour la diffusion de leur science. 
+Qu'Allah les bénisse et qu'Il augmente leur science 📚🤲🏻
 
 Nous remercions également tous les bénévoles qui ont veillé à la bonne
 organisation du séminaire et à l'agrémentation du buffet, à Chronopizza Beaumont
