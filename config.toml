@@ -22,6 +22,8 @@ alert = "this is an alert for web site"
 
   mainSections = ['blog','mosquee','page']
 
+  summarySections = ['blog']
+
   googleFonts = true
 
   [params.logo]
