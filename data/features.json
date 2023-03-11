@@ -2,13 +2,13 @@
   {
     "title": "Foi Musulmane",
     "description": "Introduction à la foi Musulmane",
-    "icon": "icon-islam",
+    "icon": "fa-solid fa-star-and-crescent",
     "link": "/pratiquer/profession-de-foi/"
   },
   {
     "title": "Prières",
     "description": "Organisation des prières quotidiennes, des tarawih & prière mortuaire",
-    "icon": "icon-lightbulb_outline",
+    "icon": "fa-solid fa-person-praying",
     "link": "/pratiquer/cinq-prieres/"
 
   },
