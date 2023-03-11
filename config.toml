@@ -20,7 +20,7 @@ enableRobotsTXT = true
 alert = "this is an alert for web site"
 [params]
 
-  mainSections = ['blog','mosquee']
+  mainSections = ['blog','mosquee','page']
 
   googleFonts = true
 
@@ -52,6 +52,24 @@ alert = "this is an alert for web site"
 
 [menu]
 
+  [[menu.main]]
+    identifier = "mosquee"
+    name = "la Mosquée"
+    url = "/mosquee/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "pratiquer"
+    name = "Pratiquer"
+    url = "/pratiquer/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "apprendre"
+    name = "Apprendre"
+    url = "/apprendre/"
+    weight = 1
+  
   [[menu.main]]
     identifier = "products"
     name = "Products"
