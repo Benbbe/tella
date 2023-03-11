@@ -15,25 +15,25 @@
   {
     "title": "Enseignement religieux",
     "description": "Please fork the Github repository and contribute to this theme!",
-    "icon": "fa-duotone fa-chalkboard-user",
+    "icon": "fab fa-leanpub",
     "link": "/apprendre/institut-coran/"
   },
   {
     "title": "Prière de la joumoua",
     "description": "Pour garantir à un nombre croissants de fidèles, la mosquée organise deux sessions de la prière du joumouah",
-    "icon": "fa-solid fa-people-group",
+    "icon": "fa-s fa-users",
     "link": "/pratiquer/joumoua/"
   },
   {
     "title": "Fêtes religieuses",
     "description": "La mosquée met tout en place pour célèbrer les fêtes musulmanes",
-    "icon": "fa-sharp fa-solid fa-balloons",
+    "icon": "fas fa-handshake",
     "link": "/pratiquer/piliers-islam/"
   },  
   {
     "title": "Questions et réponses",
     "description": "Nos imams répondent à vos questions et vous orientent selon vos besoins",
-    "icon": "fa-solid fa-messages-question",
+    "icon": "fas fa-question-circle",
     "link": "/pratiquer/questions-religieuses/"
   }
 ]
