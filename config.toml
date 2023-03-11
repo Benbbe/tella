@@ -20,7 +20,7 @@ enableRobotsTXT = true
 alert = "this is an alert for web site"
 [params]
 
-  mainSections = ['blog']
+  mainSections = ['blog','mosquee']
 
   googleFonts = true
 
