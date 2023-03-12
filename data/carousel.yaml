@@ -1,0 +1,7 @@
+images: 
+  - image: img/slide/turquie-condoleances.jpg
+    content_html: "1"
+  - image: img/slide/turquie-collecte.png
+    content_html: "2"
+  - image: img/slide/joumouah-hiver.jpg
+    content_html: "3"
