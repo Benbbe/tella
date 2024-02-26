@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Foi Musulmane",
+    "description": "Introduction à la foi Musulmane",
+    "icon": "fa-solid fa-star-and-crescent",
+    "link": "/pratiquer/profession-de-foi/"
+  },
+  {
+    "title": "Prières",
+    "description": "Organisation des prières quotidiennes, des tarawih & prière mortuaire",
+    "icon": "fa-solid fa-person-praying",
+    "link": "/pratiquer/cinq-prieres/"
+
+  },
+  {
+    "title": "Enseignement religieux",
+    "description": "Please fork the Github repository and contribute to this theme!",
+    "icon": "fab fa-leanpub",
+    "link": "/apprendre/institut-coran/"
+  },
+  {
+    "title": "Prière de la joumoua",
+    "description": "Pour garantir à un nombre croissants de fidèles, la mosquée organise deux sessions de la prière du joumouah",
+    "icon": "fas fa-users",
+    "link": "/pratiquer/joumoua/"
+  },
+  {
+    "title": "Fêtes religieuses",
+    "description": "La mosquée met tout en place pour célèbrer les fêtes musulmanes",
+    "icon": "fas fa-handshake",
+    "link": "/pratiquer/piliers-islam/"
+  },  
+  {
+    "title": "Questions et réponses",
+    "description": "Nos imams répondent à vos questions et vous orientent selon vos besoins",
+    "icon": "fas fa-question-circle",
+    "link": "/pratiquer/questions-religieuses/"
+  }
+]
